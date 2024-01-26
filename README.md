@@ -1,0 +1,1 @@
+# text_detection_using_easyocr
